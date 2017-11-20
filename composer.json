@@ -1,0 +1,21 @@
+{
+    "name": "imranrbx/Facebook",
+    "description": "this is simple package for laravel",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Imran Qasim",
+            "email": "imran_qasim@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Imranrbx\\Facebook\\": "src/"
+        }
+    }
+}
